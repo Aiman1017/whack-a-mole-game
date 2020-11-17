@@ -1,6 +1,6 @@
 .square{
   width: 200px;
-  height: 200px;
+  height: 150px;
   border-style: solid;
   border-color: black;
 }
@@ -11,10 +11,12 @@
   justify-content: center;
   align-content: center;
   width: 618px;
-  height: 618px;
+  height: 500px;
 }
 
 .mole{
   background-image: url('mole.png');
-  background-size: cover;
+  background-size: 220px;
+  background-repeat: no-repeat;
+  background-position: top;
 }
